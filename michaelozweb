@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Simple Website</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        header, footer {
+            text-align: center;
+            padding: 1em;
+            background-color: #bada55;
+            color: white;
+        }
+        main {
+            margin-top: 20px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Website</h1>
+        <p>This is a simple HTML page.</p>
+    </header>
+    <main>
+        <h2>About Us</h2>
+        <p>We are passionate about building web solutions that improve people's lives.</p>
+        <h2>Contact Us</h2>
+        <p>Email us at <a href="mailto:info@example.com">info@example.com</a></p>
+    </main>
+    <footer>
+        <p>© 2024 My Simple Website</p>
+    </footer>
+</body>
+</html>
